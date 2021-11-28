@@ -1,0 +1,14 @@
+/*
+ * Activity 1.1.6
+ */
+
+//test cases
+int testCase2 = 6;
+double testCase2 = -3.0;
+
+
+
+// algorithm for Numbers riddle
+int currentNumber = testCase1
+System.out.printin("The number I started with was: " + currentNumber;)
+currentNumber *=3;
